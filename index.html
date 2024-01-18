@@ -3,14 +3,14 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>The Radix Name Service Knowledgebase</title>
+  <title>Radix Name Service - Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/theme.css">
   <style>
     .app-name {
-      max-width: 200px !important;
+      max-width: 80px !important;
       margin-top: 40px !important;
       margin-bottom: 30px !important;
     }
@@ -20,6 +20,44 @@
       font-weight: bold;
       border-bottom: 1px solid #ebedfc;
       margin: 20px 24px 20px 10px !important;
+    }
+
+    .docsify-tabs__tab {
+      cursor: pointer;
+      padding: 16px 26px 16px 26px !important;
+    }
+
+    .markdown-section blockquote,
+    .docsify-tabs__tab--active {
+      position: relative;
+      border: none;
+      box-shadow: none !important;
+      z-index: 0;
+    }
+
+    .markdown-section blockquote::before,
+    .docsify-tabs__tab--active::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      width: 0;
+      height: 0;
+      background: #e4ac13;
+      mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      mask-composite: xor;
+      mask-composite: exclude;
+      pointer-events: none;
+    }
+
+    .markdown-section blockquote::before {
+      width: 2px;
+      height: auto;
+    }
+
+    .docsify-tabs__tab--active::before {
+      width: auto;
+      height: 3px;
     }
 
     .sidebar ul li a {
@@ -42,6 +80,44 @@
     .sidebar ul>li>ul>li li a {
       color: #163152;
     }
+
+    .sidebar ul>li>ul>li.active>a {
+      color: #e4ac13;
+      border-color: #90a7bb;
+    }
+
+    .docsify-copy-code-button {
+
+      background: #e4ac13 !important;
+      border-bottom-left-radius: 6px !important;
+
+    }
+
+    #progress-display {
+      background: #e4ac13 !important;
+    }
+
+    .sidebar-footer {
+      position: relative;
+      padding: 30px;
+      padding-bottom: 60px;
+      border-color: #f4eff5 !important;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* .runs-on-radix {
+      position: absolute;
+      background-image: url(/_assets/runs-on-radix.png);
+      background-size: contain;
+      width: 140px;
+      height: 70px;
+      background-repeat: no-repeat;
+      background-position: center center;
+      margin: auto;
+      bottom: -10px;
+    } */
   </style>
 </head>
 
@@ -68,8 +144,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-terminal-block@1.0.3"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-terminal-block@1.0.3"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 
 </html>
