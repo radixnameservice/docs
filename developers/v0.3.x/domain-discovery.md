@@ -19,7 +19,7 @@ async function discoveryExample() {
    });
 
    const associatedDomains = await rns.getAccountDomains('account_tdx_2_1298zn26mlsyc0gsx507cc83y7x8veyp90axzh6aefqhxxq9l7y03c7');
-   console.log(records); // will return array of domain names
+   console.log(associatedDomains); // will return array of domain names
 
 }
 

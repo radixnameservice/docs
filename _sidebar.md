@@ -19,11 +19,11 @@
 - Developers
     - Getting Started
         * [SDK Setup](developers/sdk-setup.md)
-    - SDK Examples (v0.3)
-        * [Domain Discovery](developers/v0.3/domain-discovery.md)
-        * [Domain Status](developers/v0.3/domain-status.md)
-        * [Domain Records](developers/v0.3/domain-records.md)
-        * [Record Resolution](developers/v0.3/record-resolution.md)
+    - SDK Examples (v0.3.x)
+        * [Domain Discovery](developers/v0.3.x/domain-discovery.md)
+        * [Domain Status](developers/v0.3.x/domain-status.md)
+        * [Domain Records](developers/v0.3.x/domain-records.md)
+        * [Record Resolution](developers/v0.3.x/record-resolution.md)
 
 <footer class="sidebar-footer">
     <div class="runs-on-radix"></div>
