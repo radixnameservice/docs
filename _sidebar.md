@@ -21,7 +21,7 @@
         * [SDK Setup](developers/sdk-setup.md)
     - SDK Examples (v0.4.x)
         * [Domain Discovery](developers/v0.4.x/domain-discovery.md)
-        * [Domain Status](developers/v0.4.x/domain-status.md)
+        * [Domain Attributes](developers/v0.4.x/domain-attributes.md)
         * [Domain Records](developers/v0.4.x/domain-records.md)
         * [Record Resolution](developers/v0.4.x/record-resolution.md)
 

@@ -16,8 +16,8 @@ async function statusExample() {
       network: 'stokenet' // or mainnet
    });
 
-   const status = await rns.getDomainStatus('radixnameservice.xrd');
-   console.log(status); // will return "Taken"
+   const attributes = await rns.getDomainAttributes('radixnameservice.xrd');
+   console.log(attributes); // will return a list the status of the domain along with a verbose status explanation.
 
 }
 
