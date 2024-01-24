@@ -19,10 +19,10 @@ async function resolverExample() {
    const resolvedRecord = await rns.resolveRecord({
       domain: 'radixnameservice.xrd',
       context: 'navigation',
-      directive: 'web2'
+      directive: 'website'
    });
 
-   console.log(resolvedRecord); // will return "rns.foundation"
+   console.log(resolvedRecord); // will return "https://rns.foundation"
 
 }
 
