@@ -4,7 +4,9 @@
 
 ---
 
-### Code Example
+<!-- tabs:start -->
+
+#### **Code Example**
 
 ```js
 
@@ -29,3 +31,15 @@ async function resolverExample() {
 statusExample();
 
 ```
+
+#### **Expected Outputs**
+
+```js
+
+// returns string of objects OR null
+
+<string>
+
+```
+
+<!-- tabs:end -->

@@ -4,7 +4,9 @@
 
 ---
 
-### Code Example
+<!-- tabs:start -->
+
+#### **Code Example**
 
 ```js
 
@@ -24,3 +26,25 @@ async function recordsExample() {
 recordsExample();
 
 ```
+
+#### **Expected Outputs**
+
+```js
+
+// returns array of objects OR null
+
+[
+    {
+      record_id: "[<resource-id>]",
+      id_additions: [],
+      domain_id: "[<resource-id>]",
+      context: <string>,
+      directive: <string> | <null>,
+      platform_identifier: <string> | <null>,
+      value: <string>
+   },
+]
+
+```
+
+<!-- tabs:end -->

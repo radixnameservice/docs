@@ -6,7 +6,9 @@
 
 ---
 
-### Code Example
+<!-- tabs:start -->
+
+#### **Code Example**
 
 ```js
 
@@ -26,3 +28,24 @@ async function discoveryExample() {
 discoveryExample();
 
 ```
+
+#### **Expected Outputs**
+
+```js
+
+// returns array of objects OR null
+
+[
+    {
+        id: "[<resource-id>]",
+        name: "<domain-name>",
+        subdomains: [],
+        created_timestamp: <number: utc-timestamp>,
+        last_valid_timestamp: <number: utc-timestamp>,
+        key_image_url: "<qr-image-url>"
+    },
+]
+
+```
+
+<!-- tabs:end -->

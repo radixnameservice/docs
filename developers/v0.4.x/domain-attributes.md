@@ -4,7 +4,9 @@
 
 ---
 
-### Code Example
+<!-- tabs:start -->
+
+#### **Code Example**
 
 ```js
 
@@ -24,3 +26,37 @@ async function statusExample() {
 statusExample();
 
 ```
+
+#### **Expected Outputs**
+
+```js
+
+// returns an object OR null
+
+{
+   status: "registered",
+   verbose: "radixnameservice.xrd is registered."
+}
+
+```
+
+#### Response Variants:
+
+<details>
+<summary>object ⇾ status</summary>
+
+Registry status of a particular domain name:
+
+| Value | Type |
+| ----------- | ----------- |
+| available | String |
+| registered | String |
+| settlement | String |
+| auction | String |
+| sunrise | String |
+| tld | String |
+| genus-substrate | String |
+
+</details>
+
+<!-- tabs:end -->
