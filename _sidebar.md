@@ -23,6 +23,7 @@
         * [Domain Discovery](developers/v0.4.x/domain-discovery.md)
         * [Domain Attributes](developers/v0.4.x/domain-attributes.md)
         * [Domain Records](developers/v0.4.x/domain-records.md)
+        * [Domain Auction](developers/v0.4.x/domain-auction.md)
         * [Record Resolution](developers/v0.4.x/record-resolution.md)
 
 <footer class="sidebar-footer">
