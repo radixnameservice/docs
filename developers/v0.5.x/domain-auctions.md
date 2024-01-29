@@ -1,6 +1,6 @@
-# Domain Auction
+# Domain Auctions
 
-> Provides the auction status of a particular domain.
+> Returns a list of all domain auctions.
 
 ---
 
@@ -18,7 +18,7 @@ async function getAllAuctionsExample() {
       network: 'stokenet' // or mainnet
    });
 
-   const auctions = await rns.getAuctions(<cursor: number (optional)>);
+   const auctions = await rns.getAllAuctions(<cursor: number (optional)>);
    console.log(auctions); // will return an array of auction objects, total count and pagination options
 
 }
