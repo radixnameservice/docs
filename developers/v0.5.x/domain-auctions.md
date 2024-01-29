@@ -32,31 +32,31 @@ getAllAuctionsExample();
 ```js
 
 // returns object OR null
-
-data: [
-    {
-        "id": "[<resource-id>]",
-        "ends": <number: utc-timestamp>,
-        "bids": {
-            "currentBid": {
-                "usd": <number>,
-                "xrd": <number>
-            },
-            "initialBid": {
-                "usd": <number>,
-                "xrd": <number>
-            },
-            "leaderBadgeId": <string>,
-            "originatorBadgeId": <string>
-        }
-    },
-    {...etc},
-    {...etc},
-    {...etc}
-],
-next_cursor: <null> | <number>,
-total_count: <number>
-
+{
+    data: [
+        {
+            "id": "[<resource-id>]",
+            "ends": <number: utc-timestamp>,
+            "bids": {
+                "currentBid": {
+                    "usd": <number>,
+                    "xrd": <number>
+                },
+                "initialBid": {
+                    "usd": <number>,
+                    "xrd": <number>
+                },
+                "leaderBadgeId": <string>,
+                "originatorBadgeId": <string>
+            }
+        },
+        {...etc},
+        {...etc},
+        {...etc}
+    ],
+    next_cursor: <null> | <number>,
+    total_count: <number>
+}
 ```
 
 <!-- tabs:end -->
