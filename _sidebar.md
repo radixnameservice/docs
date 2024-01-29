@@ -19,12 +19,13 @@
 - Developers
     - Getting Started
         * [SDK Setup](developers/sdk-setup.md)
-    - SDK Examples (v0.4.x)
-        * [Domain Discovery](developers/v0.4.x/domain-discovery.md)
-        * [Domain Attributes](developers/v0.4.x/domain-attributes.md)
-        * [Domain Records](developers/v0.4.x/domain-records.md)
-        * [Domain Auction](developers/v0.4.x/domain-auction.md)
-        * [Record Resolution](developers/v0.4.x/record-resolution.md)
+    - SDK Examples (v0.5.x)
+        * [Domain Discovery](developers/v0.5.x/domain-discovery.md)
+        * [Domain Attributes](developers/v0.5.x/domain-attributes.md)
+        * [Domain Records](developers/v0.5.x/domain-records.md)
+        * [Domain Auction](developers/v0.5.x/domain-auction.md)
+        * [Domain Auctions](developers/v0.5.x/domain-auctions.md)
+        * [Record Resolution](developers/v0.5.x/record-resolution.md)
 
 <footer class="sidebar-footer">
     <div class="runs-on-radix"></div>
