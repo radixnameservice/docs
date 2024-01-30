@@ -12,6 +12,10 @@
         * [Base Pricing](wiki/registration/base-pricing.md)
         * [Settlement Periods](wiki/registration/settlement.md)
         * [Advantage Auctions](wiki/registration/auctions.md)
+    - Resolution
+        * [Dockets](wiki/resolution/dockets.md)
+        * [Usage &amp; Standards](wiki/resolution/standards.md)
+        * [Reverse Resolution](wiki/resolution/reverse-resolution.md)
 
 - Governance
     - Coming Soon (Q2 2024)
