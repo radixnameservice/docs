@@ -43,3 +43,5 @@ statusExample();
 ```
 
 <!-- tabs:end -->
+
+To see the full list of proposed docket standards / structures, please view the [Docket Standards Section](wiki/resolution/standards.md).

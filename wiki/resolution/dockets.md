@@ -8,7 +8,7 @@ As one would probably assume, Radix Name Service domains enable a variety of use
 
 #### Anatomy of a Docket
 
-A docket is essentially a compact object of metadata that allows any dApps / integrations query domain records within the most applicable scope and context.
+A docket is essentially a compact object of metadata that allows any dApps / integrations to query domain records within the most applicable scope and context.
 <br />
 
 <div style="max-width:1024px">
