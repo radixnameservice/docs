@@ -12,6 +12,9 @@
         * [Base Pricing](wiki/registration/base-pricing.md)
         * [Settlement Periods](wiki/registration/settlement.md)
         * [Advantage Auctions](wiki/registration/auctions.md)
+    - Initiatives
+        * [Sunrise](wiki/initiatives/sunrise.md)
+        * [Landrush](wiki/initiatives/landrush.md)   
     - Resolution
         * [Dockets](wiki/resolution/dockets.md)
         * [Usage &amp; Standards](wiki/resolution/standards.md)
