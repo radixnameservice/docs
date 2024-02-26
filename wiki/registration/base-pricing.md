@@ -31,7 +31,7 @@ To note: The RNS Foundation is considering a 50% discount where $RNS is used for
 
 > #### From where is the pricing derived?
 
-Base pricing and corresponding pricing mechanisms are governed by the RNS Foundation. Any changes to pricing will require a 1st degree amendment to be tabled and voted upon within the RNS DAO (more info to follow once the DAO platform is live).
+Base pricing and corresponding pricing mechanisms are governed by the RNS Foundation. The pricing is fixed to the XRD 90 day moving average (currently 0.045 XRD to the dollar) and will be reviewed by the RNS supervisory board every 90 days OR if the underlying price of XRD / USD moves + or - 20% within any given 7 day period. Any changes to pricing will require a 1st degree amendment to be tabled and voted upon within the RNS DAO (more info to follow once the DAO platform is live).
 <br /><br />
 
 > #### Why isn't the RNS based on single purchase (lifetime) domains?

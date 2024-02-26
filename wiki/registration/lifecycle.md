@@ -6,7 +6,7 @@
 
 Acquiring a domain involves a process of searching for a domain and, if available, committing to its [base purchase price](wiki/registration/base-pricing.md). The domain then enters a [settlement period](wiki/registration/settlement.md), which is a period of time that's allowed to pass before a user can claim the domain. This provides a window of time within which a process of price and demand discovery can be determined - other parties may initiate an auction within this window if they happen to apply for the same domain.
 
-- If other parties are interested in the domain and the domain is within a settlement period, they will have the opportunity to participate in an [auction](wiki/registration/auctions.md). Due to the nature of our auction process, the original applicant always receives an edge within this auction and is compensated if they do not win. Please see the [auctions](wiki/registration/auctions.md) section for more information.
+- If other parties are interested in the domain and the domain is within a settlement period, they will have the opportunity to participate in an [auction](wiki/registration/auctions.md). Due to the nature of our auction process, the original applicant always receives an edge within this auction. Please see the [auctions](wiki/registration/auctions.md) section for more information.
 - If no demand arises for the domain within the settlement period, it will settle and the user can claim the domain accordingly.
 
 
@@ -47,7 +47,3 @@ Transparency and fair value also need to be considered due to the smaller size o
 
 Short answer no. It will almost certainly be way cheaper, because domain renewals always follow the [base pricing schedule](wiki/registration/base-pricing.md).
 <br /><br />
-
-> #### Huh, compensation if I lose an auction? How?
-
-Absolutely - those who originally attempt to register a domain will always get an 'edge' in an auction if another party happens to attempt to purchase the same domain within its settlement period. The original applicant will always be compensated if they lose at auction. Please see more information on the [auctions](wiki/registration/auctions.md) page.

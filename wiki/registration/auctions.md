@@ -12,9 +12,8 @@ If other parties are interested in a domain and the domain is within a [settleme
 
 The RNS Foundation have worked hard to find a reasonable solution based on a number of trade-offs, market efficiency and psychology: The <strong>'Advantage Auction'</strong>. This type of auction:
 
-- Charges any parties other than the original applicant a 25% premium atop of the current price or bid amount. This premium also compounds.
+- Enforces any parties other than the original applicant top submit a 20% overbid atop of the current price or bid amount. This is also subject to compounding.
 - Provides the original applicant with an 'edge'. This is called an <strong>'originators edge'</strong>. This means the original applicant will only need to meet just over the current bid to overbid without being charged a premium.
-- If the original applicant happens to lose the auction, the vast majority of the premium is claimable by the original applicant as compensation (and is pre-paid by the winning bidder).
 
 When initiated, the total duration of an advantage auction is exactly 48 hours after the end of what's remaining of the settlement period of the domain in question. <small>(settlement period remaining + 48 hours)</small>
 
@@ -32,7 +31,7 @@ Please see the example flow of the advantage auction in the infographic (provide
 
 Advantage auctions strike a balance between those bidding for perceived value, and those bidding purely for utility of the domain (such as a blog or new dApp). The core benefits are that:
 
-- Generic domain applicants receive a degree of protection from flip attempts as bidding close to the minimum bid requirement will allow the original applicant to easily compete, and each consecutive bid eats into a potential flip margin. If the original applicant cannot use their 'originators edge' to keep pace with the highest bid, then they're unlikely going to pay the premium a domain flipper may demand at the end of the contest. Overbidding for a domain that may not be resalable adds a high amount of risk for a flipper, as there's no guarantee that they'll be able to resell the domain for a higher price than paid at auction. The original applicant, however, is guaranteed to be paid compensation by the winning bidder if they lose the auction.
+- Generic domain applicants receive a degree of protection from flip attempts as bidding close to the minimum bid requirement will allow the original applicant to easily compete, and each consecutive bid eats into a potential flip margin. If the original applicant cannot use their 'originators edge' to keep pace with the highest bid, then they're unlikely going to pay the premium a domain flipper may demand at the end of the contest. Overbidding for a domain that may not be resalable adds a high amount of risk for a flipper, as there's no guarantee that they'll be able to resell the domain for a higher price than paid at auction.
 
 - Enables a streamlined and intuitive user experience when acquiring Web3 domains. An auction process within which people know exactly where they and others stand is what many have come to expect as a result of Web2 auction processes. Advantage auctions effectively yield the best of both worlds.
 
@@ -55,4 +54,4 @@ Anybody can register as many domains as they wish, however, there's no way a dom
 
 > #### What about a bot advantage for what are perceived to be valuable domain names?
 
-Locking in funds for hundreds of domains would be incredibly expensive, however, not impossible. The advantage auction mechanism is primarily designed and UX optimised for generic purchases - theoretically speaking, for premium domain edge cases, a certain party is going to pay up to a certain ceiling for a domain name or several domain names regardless of the auction mechanism and this represents fair market value. An advantage auction will provide 100% opportunity transparency for all users under these circumstances and provides the auction process with a fine balance between first come, first served and highest price offered.
+Locking in funds for hundreds of domains would be incredibly expensive, however, not impossible. The advantage auction mechanism is primarily designed and UX optimised for generic purchases - theoretically speaking, for perceived premium domain edge cases, a certain party is going to pay up to a certain ceiling for a domain name or several domain names regardless of the auction mechanism and this represents fair market value. An advantage auction will provide 100% opportunity transparency for all users under these circumstances and provides the auction process with a fine balance between first come, first served and highest price offered.
