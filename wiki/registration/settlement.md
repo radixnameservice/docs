@@ -12,10 +12,11 @@ Once a user commits to a domain purchase, the domain is subject to a settlement 
 | 2 characters | 96 hours |
 | 3 characters | 72 hours |
 | 4 characters | 64 hours |
-| 5+ characters | 36 hours |
-| 8+ characters | 24 hours |
-| 12+ characters | 12 hours |
-| 15+ characters | 4 hours |
+| 5 characters | 48 hours |
+| 8 characters | 36 hours |
+| 10 characters | 24 hours |
+| 12 characters | 8 hours |
+| 15 characters | 4 hours |
 | 18+ characters | Instant |
 
 <br />
