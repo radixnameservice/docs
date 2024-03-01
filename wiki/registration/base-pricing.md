@@ -11,10 +11,10 @@ The current base pricing schedule is as follows:
 
 | Domain Length | Base Price <small>($ equivalent)</small> | Example |
 | :-----------: | :-----------: | :-----------: |
-| 2 characters | $240 | hi.xrd |
-| 3 characters | $120 | hey.xrd |
-| 4 characters | $40 | hola.xrd |
-| 5+ characters | $4 | hello.xrd |
+| 2 characters | $240 per year | hi.xrd |
+| 3 characters | $120 per year | hey.xrd |
+| 4 characters | $40 per year | hola.xrd |
+| 5+ characters | $4 per year | hello.xrd |
 
 <br />
 
@@ -32,6 +32,16 @@ To note: The RNS Foundation is considering a 50% discount where $RNS is used for
 > #### From where is the pricing derived?
 
 Base pricing and corresponding pricing mechanisms are governed by the RNS Foundation. The pricing is fixed to the XRD 90 day moving average (currently 0.045 XRD to the dollar) and will be reviewed by the RNS supervisory board every 90 days OR if the underlying price of XRD / USD moves + or - 20% within any given 7 day period. Any changes to pricing will require a 1st degree amendment to be tabled and voted upon within the RNS DAO (more info to follow once the DAO platform is live).
+<br /><br />
+
+> #### Do domains expire?
+
+Yes, domains expire at the end of the annual term, unless of course the domains are renewed.
+<br /><br />
+
+> #### How much are renewals?
+
+Renwals are subject to the same base pricing above.
 <br /><br />
 
 > #### Why isn't the RNS based on single purchase (lifetime) domains?
