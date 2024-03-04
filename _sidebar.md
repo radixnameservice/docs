@@ -7,8 +7,9 @@
     * [Updates](/misc/socials.md)
 
 - Wiki
-    - Registration
-        * [Lifecycle](wiki/registration/lifecycle.md)
+    - Domain Acquisition
+        * [Registration Lifecycle](wiki/registration/registration-lifecycle.md)
+        * [Renewal Lifecycle](wiki/registration/renewal-lifecycle.md)
         * [Base Pricing](wiki/registration/base-pricing.md)
         * [Settlement Periods](wiki/registration/settlement.md)
         * [Advantage Auctions](wiki/registration/auctions.md)
@@ -26,13 +27,13 @@
 - Developers
     - Getting Started
         * [SDK Setup](developers/sdk-setup.md)
-    - SDK Examples (v0.5.x)
-        * [Domain Discovery](developers/v0.5.x/domain-discovery.md)
-        * [Domain Attributes](developers/v0.5.x/domain-attributes.md)
-        * [Domain Records](developers/v0.5.x/domain-records.md)
-        * [Domain Auction](developers/v0.5.x/domain-auction.md)
-        * [Domain Auctions](developers/v0.5.x/domain-auctions.md)
-        * [Record Resolution](developers/v0.5.x/record-resolution.md)
+    - SDK Examples (v0.6.x)
+        * [Domain Discovery](developers/v0.6.x/domain-discovery.md)
+        * [Domain Attributes](developers/v0.6.x/domain-attributes.md)
+        * [Domain Records](developers/v0.6.x/domain-records.md)
+        * [Domain Auction](developers/v0.6.x/domain-auction.md)
+        * [Domain Auctions](developers/v0.6.x/domain-auctions.md)
+        * [Record Resolution](developers/v0.6.x/record-resolution.md)
 
 <footer class="sidebar-footer">
     <div class="runs-on-radix"></div>
