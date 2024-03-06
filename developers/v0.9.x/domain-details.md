@@ -1,6 +1,6 @@
-# Domain Status
+# Domain Details
 
-> Provides the registration status of a domain name.
+> Provides the specifics of a domain name.
 
 ---
 
@@ -12,7 +12,7 @@
 
 import RnsSDK from '@radixnameservice/rns-sdk';
 
-async function statusExample() {
+async function detailsExample() {
 
    const rns = new RnsSDK({
       network: 'stokenet' // or mainnet
@@ -23,7 +23,7 @@ async function statusExample() {
 
 }
 
-statusExample();
+detailsExample();
 
 ```
 
