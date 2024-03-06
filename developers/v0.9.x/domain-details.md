@@ -53,7 +53,7 @@ detailsExample();
 // returns an object OR Null
 
 {
-   id: "invalid", <string>
+   status: "invalid", <string>
    verbose: <string>
 }
 
