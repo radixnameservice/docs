@@ -19,7 +19,7 @@ async function statusExample() {
    });
 
    const attributes = await rns.getDomainAttributes('radixnameservice.xrd');
-   console.log(attributes); // will return a list the status of the domain along with a verbose status explanation.
+   console.log(attributes); // will the status of the domain along with a verbose status explanation.
 
 }
 
