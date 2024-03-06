@@ -19,7 +19,7 @@ async function detailsExample() {
    });
 
    const details = await rns.getDomainDetails('radixnameservice.xrd');
-   console.log(details); // will return an object containing the domain details OR a failure object
+   console.log(details); // will return an object containing the domain details OR a failure object OR null
 
 }
 
