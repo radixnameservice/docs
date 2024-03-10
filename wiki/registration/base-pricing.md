@@ -41,7 +41,7 @@ Yes, domains expire at the end of the annual term, unless of course the domains 
 
 > #### How much are renewals?
 
-Renwals are subject to the same base pricing above.
+Renewals are subject to the same base pricing above.
 <br /><br />
 
 > #### Why isn't the RNS based on single purchase (lifetime) domains?
