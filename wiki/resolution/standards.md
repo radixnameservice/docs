@@ -31,9 +31,8 @@ For use within wallets (receiving tokens).
 
 | Selector | Directives | Example Use Case |
 | :-----------: | :-----------: | :----------- |
-| receiver | xrd | Account that will exclusively receive XRD. |
-| receiver | * | Catch all wildcard or fallback account address. |
-| receiver | <em>hypothetical: gumball</em> | Account that will exclusively receive gumball tokens. |
+| receivers | * | Radix native catch-all account address. |
+| receivers | <em>hypothetical: gumball</em> | Account that will exclusively receive gumball tokens. |
 
 </div>
 <br />
