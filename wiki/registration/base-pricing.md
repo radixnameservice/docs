@@ -31,7 +31,7 @@ To note: The RNS Foundation is considering a 50% discount where $RNS is used for
 
 > #### From where is the pricing derived?
 
-Base pricing and corresponding pricing mechanisms are governed by the RNS Foundation. The pricing is fixed to the XRD 90 day moving average (currently 0.045 XRD to the dollar) and will be reviewed by the RNS supervisory board every 90 days OR if the underlying price of XRD / USD moves + or - 20% within any given 7 day period. Any changes to pricing will require a 1st degree amendment to be tabled and voted upon within the RNS DAO (more info to follow once the DAO platform is live).
+Due to the lack of battle-tested Oracles on Radix, an RNS Foundation governed sub-DAO has been set up to ensure that base pricing and corresponding pricing mechanisms are kept reasonably in line with the XRD/USD market price. Every 30 days, pricing is reviewed by the Founding team to re-calibrate pricing to the XRD/USD 30 day moving average via an internal resoultion.
 <br /><br />
 
 > #### Do domains expire?
