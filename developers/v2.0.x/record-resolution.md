@@ -21,10 +21,11 @@ async function resolverExample() {
    const resolvedRecord = await rns.resolveRecord({
       domain: 'radixnameservice.xrd',
       context: 'navigation',
-      directive: 'website'
+      directive: 'website',
+      proven: false
    });
 
-   console.log(resolvedRecord); // will return "https://rns.foundation"
+   console.log(resolvedRecord); // will return { value: "https://rns.foundation" }
 
 }
 
@@ -36,7 +37,12 @@ statusExample();
 
 ```js
 
-// returns string of objects OR null
+// returns an object OR null
+
+{
+   value: "<string>",
+   nonFungibleDataList?: [<StateNonFungibleDetailsResponseItem>](https://github.com/radixdlt/babylon-gateway/blob/main/sdk/typescript/lib/generated/models/StateNonFungibleDetailsResponseItem.ts#L28)  
+}
 
 <string>
 
