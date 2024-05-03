@@ -41,13 +41,13 @@ statusExample();
 
 {
    value: "<string>",
-   nonFungibleDataList?: [<StateNonFungibleDetailsResponseItem>](https://github.com/radixdlt/babylon-gateway/blob/main/sdk/typescript/lib/generated/models/StateNonFungibleDetailsResponseItem.ts#L28)  
+   nonFungibleDataList?: StateNonFungibleDetailsResponseItem
 }
-
-<string>
 
 ```
 
 <!-- tabs:end -->
+
+[StateNonFungibleDetailsResponseItem](https://github.com/radixdlt/babylon-gateway/blob/main/sdk/typescript/lib/generated/models/StateNonFungibleDetailsResponseItem.ts#L28) refers to the tree of the RadixDLT SDK native nonFungibleDataList type interface.
 
 To see the full list of proposed docket standards / structures, please view the [Docket Standards Section](wiki/resolution/standards.md).
