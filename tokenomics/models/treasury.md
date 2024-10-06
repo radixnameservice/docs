@@ -135,3 +135,13 @@ Like Protocol Improvement Proposals (PIPs), bounty fulfillment is tied to the is
 **4. Expiration:** Treasury Mandate Badges have an expiration period of 3 months from the date of issuance, ensuring that claimants act promptly.
 
 <!-- tabs:end -->
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

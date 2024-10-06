@@ -49,3 +49,13 @@ Platform Providers will continue to earn 10% of the revenue generated from the p
 ## Platform Provider Resignation Process
 
 Platform Providers wishing to resign must submit a Platform Provider Resignation proposal. This proposal includes the request to burn their Platform Provider Badge, thereby ending their ability to facilitate sales and removing their participation rights within the DAO. The platform ceases all sales and commission activity immedately after the resignation request is submitted.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

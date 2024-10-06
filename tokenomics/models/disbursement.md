@@ -44,3 +44,13 @@ The remaining 40% of the revenue is allocated to the DAO Treasury, which acts as
 **Development Funding:** Treasury funds are used to support new projects, features, and upgrades that benefit the protocol and the community.<br />
 **Proposal-Based Disbursement:** Funds are released through successful proposals submitted by Platform Providers and other participants, ensuring that development is aligned with the DAO's collective vision and goals.
 This allocation ensures that the DAO is self-sustaining and can continuously evolve through community-driven development.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

@@ -54,3 +54,13 @@ You can read more about the specific unlock criteria in the dedicated Engagement
 The RNS DAO features many mechanisms under which participants are rewarded, such as collateralizing proposals in return for Stream Rewards. The Boost Initiative primarily aims to really kickstart The Radix Name Service and attract a healthy level of DAO engagement in the early stages of the DAO by supplementing each of the rewards with a **25% bonus**. $RNS rewards from this boost mechanism will be disbursed until pool depletion.
 
 You can read more about the boost specifics in the dedicated Boost Initiative section.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

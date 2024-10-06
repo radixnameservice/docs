@@ -66,3 +66,16 @@ Risk is very important within DAO's and in most cases, the DAO Treasury takes on
 Protocol improvement proposals are very opinionated, in that the incoming proposal MUST provide a direct benefit to the DAO or name service. If a proposal results in the applicant being a direct beneficiary in some way, shape or form (i.e. provides an opportunity to run a profitable operation), then the DAO does not expect to take on financial risk on behalf of the party that can potentially be a longer term direct beneficiary. Reasonable rules of engagement apply, and are measured based on whether the proposed functionality isn't being implementated for a use case of a specific dApp, but instead is being implemented for universal usage / interfacing by the DAO, service, participants and ecosystem developers as a whole.
 
 Incentives for symbiotic developments and integrations exist through platform provider rewards. Integrated apps and utilities that leverage The Radix Name Service can apply to become Official Platform Providers and get rewarded with $RNS based on the volume alias sales / renewals that are processed through said dApp / integration.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship - Backer Based Funding |
+| Simon Wikstrand (Kansuler.xrd) | 6th Oct 2024 | Suggestions - Backer based funding does not give clarity around possible loss of funds and may lead to backer complacency and bad PR outcomes |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship - Alternative Collateralized PIP's |
+| Faraz (Faraz.xrd) | 6th Oct 2024 | Suggestions - Define the rewards model for platform providers |
+
+<!-- changelog:end -->

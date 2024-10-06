@@ -12,3 +12,13 @@ From the 25k Era, gRNS Holders are the final deciding parties and "sign-off" aut
 
 - <a href="#/governance/structure/voting-mechanisms" target="_blank">DAO Voting Model</a>
 - <a href="#/tokenomics/types/rns-governance-token" target="_blank">gRNS Functionality</a>
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

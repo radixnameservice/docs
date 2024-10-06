@@ -50,3 +50,13 @@ A bonus pool of this nature theoretically provides further risk-mitigating incen
 **Flexible Subscription Routes:** Users can choose how they want to engage—either by collateralizing Protocol Improvement Proposals (PIPs) or providing liquidity. This flexibility suits different user preferences.<br />
 **Consistent Revenue Stream:** With 40% of all DAO revenue allocated to these streams, participants can rely on regular reward opportunities, keeping the system sustainable and attractive over time.<br />
 **Stream Runoff Mechanism:** If a Stream is underutilized, unclaimed rewards flow into a Stream Runoff Pool. These surplus funds accumulate and are later redistributed as bonuses, ensuring no DAO revenue is wasted while encouraging future participation.<br />
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

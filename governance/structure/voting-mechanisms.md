@@ -699,3 +699,15 @@ Governance mechanisms devolve and respective voting criteria becomes active with
 <!-- tabs:end -->
 
 </div>
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+| Ibrahim Mahmood (Beem.xrd) | 6th Oct 2024 | Suggestions - Merge voting mechanisms and eras for definition (improve clarity) |
+| Faraz (Faraz.xrd) | 6th Oct 2024 | Suggestions - Grammatical Corrections |
+
+<!-- changelog:end -->

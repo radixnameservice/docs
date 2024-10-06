@@ -40,3 +40,13 @@ In return for locking $RNS tokens, participants receive $gRNS tokens, which are 
 **Automated Voting:** The locking mechanism and $gRNS issuance ensure that voting does not require manual snapshots. Voting power is automatically adjusted based on the amount of $RNS locked, enabling a seamless and decentralized voting process.
 
 By implementing this token locking mechanism, The Radix Name Service effectively balances the need for sybil protection with the desire for an agile, real-time decentralized governance system with reduced administrative overhead.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

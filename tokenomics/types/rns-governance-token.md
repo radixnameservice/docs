@@ -40,3 +40,13 @@ Issuing a secondary governance specific token has a number of advantages:
 **1.** Voting rights are tied to DAO usage and user commitment to DAO mechanisms, not to the $RNS token. If the $RNS token happens to be instantiated on an exchange, holding these tokens does not automatically provide voting rights. Having this degree of separation between holding the $RNS token and voting rights ensures that regulatory risk surrounding the $RNS token is kept to the very minimum.<br /><br />
 **2.** Voting is isolated to DAO members that are involved and engaged with The Radix Name Service, whose involvement spans much further than simply holding the $RNS token and are, therefore, more likely to be well-informed decision makers within the DAO. This will ultimately convert to well-informed and lucid resolutions.<br /><br />
 **3.** As $gRNS tokens are issued based on locking actions (with $RNS), vote participation doesn't require a snapshot or locking at the $gRNS token level. This means $gRNS holders can freely choose to vote on concurrent proposals and motions, thus, creating a highly scalable, smooth and completely decentralized DAO that doesn't require 3rd party intervention for snapshots.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

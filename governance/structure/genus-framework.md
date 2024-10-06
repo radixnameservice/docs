@@ -55,3 +55,15 @@ Each Genus Registry operates under a sub-DAO, which offers legal protections for
 ## Registry Resignation
 
 Registry operators can voluntarily resign from their role, ceasing all sales or issuance of genus aliases. The associated sub-DAO will be frozen, preventing further governance actions. Current aliases are converted to forever domains and remain active.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+| Faraz (Faraz.xrd) | 6th Oct 2024 | Suggestions - Define the outcome for the genus alias holders upon genus registry resignation |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship - Alias Conversion / Frozen DAO |
+
+<!-- changelog:end -->

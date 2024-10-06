@@ -24,3 +24,13 @@ The Boost Rewards mechanism is designed to amplify the benefits of participating
 **Enhanced Incentives:** The additional 25% boost significantly increases the attractiveness of participating in DAO activities, encouraging more engagement and contribution.<br />
 **Support for Growth:** By allocating 20% of the overall token supply to this initiative, the DAO provides crucial support to drive participation and operational activities, contributing to overall growth.<br />
 **Encouragement for Early Participation:** Boost Rewards incentivize users to engage early and consistently, capitalizing on the increased rewards while the allocation lasts.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

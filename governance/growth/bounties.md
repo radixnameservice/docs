@@ -21,3 +21,13 @@ Once published, multiple applicants can apply to fulfil each Bounty for a certai
 - Ensure that every stage of the Bounty is created to the agreed specification.
 - Be honest, transparent and openly communicative with the Facilitators and DAO, such as discussing any changes in remit, due to unforeseen issues or inability to complete the Bounty for any reason.
 - Prepare and present the DAO with a SOP and merge strategy once all of the Bounty stages are complete.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

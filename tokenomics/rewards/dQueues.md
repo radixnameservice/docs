@@ -51,3 +51,13 @@ The more tasks there are in the dQueue, the higher the potential reward, making 
 **Incentivized Participation:** The reward structure encourages active participation, with higher rewards during periods of high demand, ensuring critical tasks are completed promptly.<br />
 **Cost Reimbursement:** Participants receive $RNS tokens not only as an incentive but also to cover transaction fees, making it economically viable to participate.<br />
 **Sustainable Protocol Maintenance:** By distributing the responsibility of protocol maintenance across many participants, dQueues help ensure the long-term sustainability and smooth operation of the protocol.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

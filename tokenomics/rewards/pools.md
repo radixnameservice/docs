@@ -32,3 +32,13 @@ Read more about the specifics of endorsement pools here.
 **Incentivized Participation:** The dynamic reward system of the Maintenance Pool and the bonus incentives of the Stream Runoff Pool encourage consistent participation, especially during periods of low engagement.<br />
 **Efficient Resource Utilization:** The Stream Runoff Pool ensures that no DAO revenue is wasted, accumulating unclaimed rewards and redistributing them when demand returns.<br />
 **Risk Mitigation:** By holding surplus funds in the Stream Runoff Pool, the protocol can provide additional rewards to participants during periods of renewed activity, reducing the risks associated with revenue fluctuations.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

@@ -41,3 +41,13 @@ Violations of the Close Periods policy will be taken seriously and may result in
 - Further Disciplinary Actions: Depending on the severity of the violation, additional consequences such as fines, restrictions, or DAO governance actions may be enforced to uphold the protocol's integrity.
 
 This policy is a critical aspect of maintaining the fairness and credibility of The Radix Name Service, ensuring that all actions by facilitators align with the community’s best interests.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

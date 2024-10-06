@@ -70,3 +70,13 @@ To maximize your rewards:
 **Fortnightly Rewards:** The consistent reward cycle (every two weeks) helps maintain momentum and engagement over time, encouraging sustained involvement rather than one-off participation.<br />
 **Gamification of Participation:** The ability to earn $RNS tokens simply by interacting on social media platforms and sharing content gamifies the experience, making it more enjoyable for users while simultaneously promoting the protocol.<br />
 **Support for Ecosystem Development:** The funding for building social-oriented tools also signals the protocol's commitment to continuously improving the ecosystem, offering users seamless ways to connect with the platform.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

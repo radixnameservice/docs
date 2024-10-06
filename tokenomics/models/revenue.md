@@ -32,3 +32,13 @@ The Radix Name Service incorporates a carefully designed fee system that ensures
 
 **Premium Fee:** 7.5% on top of the annual premium charged by an underwriter.<br />
 **Purpose:** The Assurance Pool provides parametric assurance for registries, offering coverage for potential disputes and ensuring robust protection for users. The additional fee supports the administrative costs and risk management associated with the assurance feature.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->

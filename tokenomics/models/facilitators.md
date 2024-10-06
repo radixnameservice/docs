@@ -99,3 +99,13 @@ To ensure smooth transitions and prevent bottlenecks, the following measures wil
 **1. Delegation of Responsibilities:** Each facilitator should proactively delegate aspects of their role to trusted members of the DAO to avoid over-centralization of duties.<br />
 **2. Succession Plan:** A clear succession plan will be established, identifying potential replacements or co-leaders from within the community, especially for key technical and leadership roles.<br />
 **3. DAO Transition:** Over time, all responsibilities of the founding team will gradually be transitioned to the community as the DAO matures, minimizing reliance on any individual facilitator.
+
+<!-- changelog:start -->
+
+This is the contribution that serves to keep track of ideation sources, authorship and documentation modifications within the DAO. If you have created or contributed to an idea, or optimized the content of this page, please fill out the form to allow others to see under which context the submission occurred.
+
+| Name  | Date            | Notes |
+| :-----: | :---------------: | :---------------------------: |
+| James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
+
+<!-- changelog:end -->
