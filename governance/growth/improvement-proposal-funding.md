@@ -76,6 +76,6 @@ This is the contribution that serves to keep track of ideation sources, authorsh
 | James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship - Backer Based Funding |
 | Simon Wikstrand (Kansuler.xrd) | 6th Oct 2024 | Suggestions - Backer based funding does not give clarity around possible loss of funds and may lead to backer complacency and bad PR outcomes |
 | James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship - Alternative Collateralized PIP's |
-| Faraz (Faraz.xrd) | 6th Oct 2024 | Suggestions - Define the rewards model for platform providers |
+| Faraz Abulhawa (Faraz.xrd) | 6th Oct 2024 | Suggestions - Define the rewards model for platform providers |
 
 <!-- changelog:end -->

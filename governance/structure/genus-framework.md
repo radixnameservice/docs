@@ -63,7 +63,7 @@ This is the contribution that serves to keep track of ideation sources, authorsh
 | Name  | Date            | Notes |
 | :-----: | :---------------: | :---------------------------: |
 | James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship |
-| Faraz (Faraz.xrd) | 6th Oct 2024 | Suggestions - Define the outcome for the genus alias holders upon genus registry resignation |
+| Faraz Abulhawa (Faraz.xrd) | 6th Oct 2024 | Suggestions - Define the outcome for the genus alias holders upon genus registry resignation |
 | James Wylie (Wylie.xrd) | 6th Oct 2024 | Concept Ideation / Authorship - Alias Conversion / Frozen DAO |
 
 <!-- changelog:end -->
