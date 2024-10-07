@@ -16,7 +16,7 @@ Three distinct adoption phases will unlock portions of $RNS that will be progres
 **50k Era:** 300,000 $RNS tokens<br />
 **125k Era:** 200,000 $RNS tokens
 
-This tiered structure ensures a total of 100,000 $RNS tokens are distributed across all three phases as engagement rewards. This model incentivizes user engagement at key growth stages while ensuring a sustainable allocation across the protocol's entire adoption cycle.
+This tiered structure ensures a total of 1,000,000 $RNS tokens are distributed across all three phases as engagement rewards. This model incentivizes user engagement at key growth stages while ensuring a sustainable allocation across the protocol's entire adoption cycle.
 
 ## Participation
 
