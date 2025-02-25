@@ -48,7 +48,7 @@
         * [Execute: Record Creation](developers/v3.0.x/execute-record-creation.md)
         * [Execute: Record Amendment](developers/v3.0.x/execute-record-amendment.md)
         * [Execute: Record Deletion](developers/v3.0.x/execute-record-deletion.md)
-        * [Utils: Validate Domain](developers/v3.0.x/utils-domain-validation.md)
+        * [Utility: Validate Domain](developers/v3.0.x/utils-domain-validation.md)
 
 <footer class="sidebar-footer">
     <div class="runs-on-radix"></div>
