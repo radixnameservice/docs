@@ -27,10 +27,7 @@ async function domainActivationExample() {
 
    const result = await rns.activateDomain({
       domain: "desired-domain.xrd",
-      userDetails: {
-         badgeId: "#1#"
-         accountAddress: "account_tdx_2_1298zn26mlsyc0gsx507cc83y7x8veyp90axzh6aefqhxxq9l7y03c7"
-      }
+      accountAddress: "account_tdx_2_1298zn26mlsyc0gsx507cc83y7x8veyp90axzh6aefqhxxq9l7y03c7"
    });
 
    // handle result...
