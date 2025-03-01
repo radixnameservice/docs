@@ -49,6 +49,7 @@
         * [Execute: Record Amendment](developers/v3.0.x/execute-record-amendment.md)
         * [Execute: Record Deletion](developers/v3.0.x/execute-record-deletion.md)
         * [Utility: Validate Domain](developers/v3.0.x/utils-domain-validation.md)
+        * [Utility: Validate Subdomain](developers/v3.0.x/utils-subdomain-validation.md)
 
 <footer class="sidebar-footer">
     <div class="runs-on-radix"></div>
