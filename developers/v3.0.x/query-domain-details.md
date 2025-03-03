@@ -37,7 +37,6 @@ async function detailsExample() {
    name: string,
    address: string,
    created_timestamp: number,
-   last_valid_timestamp: number,
    key_image_url: string,
    subdomains: [
       {
