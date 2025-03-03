@@ -39,8 +39,6 @@
         * [Query: Domain Details](developers/v3.0.x/query-domain-details.md)
         * [Query: Domain Records](developers/v3.0.x/query-domain-records.md)
         * [Query: Record Resolution](developers/v3.0.x/query-record-resolution.md)
-        * [Query: User Badge](developers/v3.0.x/query-user-badge.md)
-        * [Execute: User Badge Issuance](developers/v3.0.x/execute-user-badge-issuance.md)
         * [Execute: Domain Registration](developers/v3.0.x/execute-domain-registration.md)
         * [Execute: Domain Activation](developers/v3.0.x/execute-domain-activation.md)
         * [Execute: Subdomain Creation](developers/v3.0.x/execute-subdomain-creation.md)
