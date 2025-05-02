@@ -2,10 +2,10 @@
 
 ```js
 
-// Returns an Object ⇾ Reference Type: CommitmentStackResponseI
+// Returns an Object ⇾ Reference Type: SdkTransactionResponseT
 
 {
-   success: [
+   feedback: [
       {
          code: string,
          details: string | null

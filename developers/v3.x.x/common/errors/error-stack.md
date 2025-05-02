@@ -2,7 +2,7 @@
 
 ```js
 
-// Returns an Object ⇾ Reference Type: ErrorStackResponseI
+// Returns an Object ⇾ Reference Type: ErrorStackI
 
 {
    errors: [
