@@ -1,34 +1,66 @@
-# Renewal Lifecycle
+# Domain Lifecycle
 
 ---
 
-All domains are valid for a year and, unless renewed will expire. Renewals are subject to the standard flat [base purchase price](wiki/registration/base-pricing.md) and can be renewed within 30 days of expiration. If the current owner decides not to renew a domain at the end of its renewal period, it enters the "grace period", which lasts a further 30 days. During this time, the domain records will no longer function, but the domain can be renewed and reactivated by its current owner under the standard pricing structure.
+> **🎉 V2 APPROVED:** The RNS community has voted to approve the V2 upgrade! Domains are already forever assets in the current system with no expiry or renewals. V2 will introduce a "bonding" system that allows you to retrieve your bond. See the [RNS V2 Bonding System](wiki/registration/v2-bonding-system.md) for full details.
 
-## Lapse Auctions
+## Current System: Forever Assets
 
-If an owner decides not to renew a domain at the end of its grace period, it enters a ‘lapse auction’ for 72 hours. $RNS holders can partake in lapse auction; 75% of the winning bid is awarded to the previous domain owner and the remaining 25% is sent to the RNS Foundation treasury. Losing auction participants can claim back their total bid commitments once the auction is complete.
+Domains in RNS are **forever assets** with no expiration dates or renewal requirements. Once you purchase a domain, it's yours with no additional costs.
 
-If a domain receives no bids at the end of a lapse auction, the domain drops back into general availability. The term is simply used to define a domain that was once owned, has expired and is now generally available. 
+**Key Features:**
+- ✅ **No expiration dates** - domains never expire
+- ✅ **No renewal fees** - one-time purchase only  
+- ✅ **Permanent ownership** - yours forever once purchased
+- ✅ **Immediate activation** - domains work immediately after purchase
+- ⚠️ **V2 migration required** - current domains will need migration to V2 bonding system
 
-## Process
+## What Happened to Renewals?
 
----
+Renewals, grace periods, and lapse auctions have been **completely removed** from RNS. The system has been simplified to provide permanent domain ownership through one-time purchases.
 
-The renewal process is as follows (infographic provided by XRD.domains):
-<br /><br />
+**Removed features:**
+- ❌ Annual renewal fees
+- ❌ Grace periods  
+- ❌ Lapse auctions
+- ❌ Domain expiration
+- ❌ Renewal reminders
 
-<object data="../../_assets/lifecycles/renewal-lifecycle.pdf" type="application/pdf" width="100%" height="1040px">
-    <embed src="../../_assets/lifecycles/renewal-lifecycle.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../_assets/lifecycles/renewal-lifecycle.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-<br /><br />
+## V2 Migration (When Available)
+
+While domains are already forever assets, V2 will introduce additional benefits:
+
+### Current Forever Assets vs V2 Bonding
+| Feature | Current System | V2 Bonding System |
+|---------|---------------|-------------------|
+| **Ownership Duration** | Forever | Forever |
+| **Payment** | One-time (XRD) | Retrievable bond (xUSDC/sUSD) |
+| **Get Money Back** | ❌ No | ✅ Yes (unbond) |
+| **Expiration** | Never | Never |
+| **Migration Required** | N/A | ✅ Required |
+
+### Benefits of V2 Bonding
+- **Retrievable Bond**: Get your money back by unbonding
+- **Stable currency**: Use xUSDC/sUSD instead of XRD
+- **Trading floor price**: Bond amount sets natural minimum price
+- **Open source**: Support transition to fully open-source project
 
 ## FAQ
 
 ---
 
-> #### If I win at auction, will the renewal costs always be in line with the amount I paid for the bid?
+> #### Do I need to do anything with my current domains?
 
-Short answer no. It will almost certainly be way cheaper, because domain renewals always follow the [base pricing schedule](wiki/registration/base-pricing.md).
-<br /><br />
+Not immediately. Your current domains remain yours forever. When V2 launches, you'll have the option to migrate them to the bonding system for additional benefits.
+
+> #### What if I don't migrate to V2?
+
+Your domains will remain in your possession but may lose some RNS functionality until migrated. Domain names are protected from duplication in V2.
+
+> #### Can I still lose my domain somehow?
+
+No. Domains are forever assets in both the current system and V2. The only way to "lose" a domain in V2 would be to voluntarily unbond it to retrieve your funds.
+
+> #### When do I need to migrate?
+
+Migration timeline will be announced when V2 is ready to launch. You'll have a user-friendly interface to migrate your domains when the time comes.

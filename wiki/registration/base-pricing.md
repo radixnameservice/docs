@@ -1,49 +1,104 @@
-
-
 # Base Pricing
 
 ---
 
-Domains are subject to a base pricing schedule, denominated in $ and is payable in the XRD equivalent at the point of purchase. Base pricing can be considered as the floor price that a purchaser pays if the domain settles without contest from another interested party. Base pricing also applies to domain name renewals.
+> **🎉 V2 APPROVED:** The RNS community has voted to approve the V2 upgrade! While domains are already forever assets with no expiry in the current system, V2 will introduce a "bonding" system where you can retrieve your funds. Current domain holders will need to migrate to V2 bonding once it launches. See the [RNS V2 Bonding System](wiki/registration/v2-bonding-system.md) for full details.
 
-The current base pricing schedule is as follows:
+> **⚠️ MIGRATION COST WARNING:** Purchasing domains now (V1) means you'll need to pay **additional funds** to migrate to V2. Your V1 purchase costs are **NOT recoverable** - V2 migration requires new bond amounts. Consider this financial commitment before purchasing.
+
+## Historical Context: Community-Driven Evolution
+
+RNS pricing has evolved through community governance:
+
+1. **Original System:** Domains had annual renewal fees and could expire
+2. **Community Vote:** RNS community voted to eliminate renewals and make domains forever assets
+3. **Current Result:** One-time purchase model with permanent ownership
+4. **Recent V2 Vote:** Community approved bonding system for fund retrievability
+
+This transition reflects the community's preference for permanent ownership over recurring fees.
+
+## Current System
+
+Domains are forever assets with a one-time purchase price, denominated in $ and payable in the XRD equivalent at the point of purchase. **There are no renewals or expiration dates** - this was a deliberate community decision.
+
+**⚠️ Important:** These V1 purchase costs cannot be recovered during V2 migration.
+
+The current pricing schedule is as follows:
 <br /><br />
 
-| Domain Length | Base Price <small>($ equivalent)</small> | Example |
-| :-----------: | :-----------: | :-----------: |
-| 2 characters | $240 per year | hi.xrd |
-| 3 characters | $120 per year | hey.xrd |
-| 4 characters | $40 per year | hola.xrd |
-| 5+ characters | $4 per year | hello.xrd |
+| Domain Length | Purchase Price <small>($ equivalent in XRD)</small> | V2 Migration Cost | Total Commitment |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 2 characters | $240 (one-time, non-recoverable) | + $240 bond | = $480 total |
+| 3 characters | $120 (one-time, non-recoverable) | + $120 bond | = $240 total |
+| 4 characters | $40 (one-time, non-recoverable) | + $40 bond | = $80 total |
+| 5+ characters | $4 (one-time, non-recoverable) | + $4 bond | = $8 total |
 
 <br />
+
+## Approved V2 Bonding System
+
+Under the approved V2 system, the same pricing structure will apply but as retrievable bonds instead of one-time purchases:
+
+| Domain Length | Bond Amount <small>($ equivalent in xUSDC/sUSD)</small> | Example |
+| :-----------: | :-----------: | :-----------: |
+| 2 characters | $240 (retrievable by burning domain) | hi.xrd |
+| 3 characters | $120 (retrievable by burning domain) | hey.xrd |
+| 4 characters | $40 (retrievable by burning domain) | hola.xrd |
+| 5+ characters | $4 (retrievable by burning domain) | hello.xrd |
+
+**Key differences in V2:**
+- Bonds are paid in xUSDC or sUSD instead of XRD
+- Bonds can be fully retrieved by "unbonding" **which burns the domain**
+- Domains remain forever assets (no change from current system)
+- Registrars can add optional "registrar fees" on top of bonds
+- **Current domain holders will need to migrate with NEW funds** (V1 costs not recoverable)
+
+**⚠️ Important Bond Retrieval:** You cannot have both the domain AND get your bond money back. Unbonding burns the domain to return the funds. For monetization while preserving the domain, trading on marketplaces is available.
 
 ## FAQ
 
 ---
 
-> #### This is quite expensive, no?
+> #### Should I buy domains now or wait for V2?
 
-This pricing schedule is the cheapest among many different name services out there. We predict that based on character length, domains with the intended use of utility will cost $4, which is much cheaper when compared with Web2. Character length plays a big role in the base pricing schedule, which is a standard protocol for Web3 name services; Any domains that are perceived as valuable will likely always attract multiple interested parties and will therefore go to auction, however, again the base pricing is much cheaper than if one were to pick up a valuable domain via a marketplace / acquisition.
+**There are different considerations for each approach:**
+- **Buy now:** Secures the domain name immediately, but requires V1 cost + V2 migration cost
+- **Wait for V2:** Only requires bond amount once but risks someone else claiming the domain
+- **V1 costs are sunk costs** - they cannot be applied toward V2 bonds
 
-To note: The RNS Foundation is considering a 50% discount where $RNS is used for domain purchases.
-<br /><br />
+Each user should evaluate their own priorities, risk tolerance, and financial circumstances.
+
+> #### Are domains really forever now?
+
+Yes! The RNS community voted to make domains forever assets with no expiration dates. This was a conscious decision to move away from the traditional renewal model used by other name services.
+
+> #### What happened to renewals?
+
+The community voted to eliminate renewals entirely. Once you purchase a domain in the current system, it's yours forever with no additional payments required. This was done to improve user experience and eliminate the fear of losing domains.
+
+> #### Why did the community choose forever assets over renewals?
+
+The community recognized that renewal systems create barriers to adoption, user anxiety about losing domains, and unnecessary complexity. Forever assets provide better user experience and true digital ownership.
+
+> #### Why migrate to V2 if domains are already forever?
+
+V2 bonding allows you to retrieve your funds **by burning the domain** if you no longer want it, whereas current purchases are permanent spends. V2 also transitions to a more stable currency (xUSDC/sUSD) and supports the move to a fully open-source project. **However, migration requires additional financial commitment.**
+
+> #### Can I get my money back in V2?
+
+Yes, but **only by burning the domain** through unbonding. You cannot keep the domain and get the bond back - it's one or the other. For monetizing domains while preserving them, marketplace trading is available.
+
+> #### What's the difference between trading and unbonding?
+
+**Trading:** Sell domain on marketplace → Get money (potentially more than bond) + buyer gets domain
+**Unbonding:** Burn domain → Get exact bond amount back + domain is destroyed forever
+
+These are two different methods with different outcomes and implications.
 
 > #### From where is the pricing derived?
 
 Due to the lack of battle-tested Oracles on Radix, an RNS Foundation governed sub-DAO has been set up to ensure that base pricing and corresponding pricing mechanisms are kept reasonably in line with the XRD/USD market price. Every 30 days, pricing is reviewed by the Founding team to re-calibrate pricing to the XRD/USD 30 day moving average via an internal resoultion.
-<br /><br />
-
-> #### Do domains expire?
-
-Yes, domains expire at the end of the annual term, unless of course the domains are renewed.
-<br /><br />
-
-> #### How much are renewals?
-
-Renewals are subject to the same base pricing above.
-<br /><br />
 
 > #### Why isn't the RNS based on single purchase (lifetime) domains?
 
-The initial specification is based on the stance that the lack of incentives to build out comprehensive name services around single purchase domains is detrimental to their existence. A well-utilized and adopted name service requires high-quality services, innovation, superior UX, and governance. A reasonable, small fee that's deposited into a treasury, then dispersed in the form of builders grants creates an incentive mechanism and subsequent economy that enables vendors to fulfil these requirements into perpetuity. An ecosystem of this nature also allows the name service to adapt in an agile manner as longer-term trends emerge and shifts occur. The RNS aims to be a vibrant ecosystem of open standards, with multiple, innovative developers working together to extend the service and build tooling for these domains to ensure that they can be utilised outside of the current bounds we see today. Subsequent value then comes full circle for domain owners, accordingly - It's probably safe to say that nobody likes a 'ghost' asset.
+It is now! The current system already provides lifetime domains with single purchases. V2 will add flexibility to this by making the bond amount retrievable while maintaining the forever asset nature of domains for as long as the user retains their bond.

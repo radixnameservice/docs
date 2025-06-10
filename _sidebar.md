@@ -4,23 +4,18 @@
     * [Intro](/)
     * [Contribution](/misc/contribution.md)
     * [About](/misc/about.md)
-    * [Updates](/misc/socials.md)<br />
 
 - Wiki
     - Domain Acquisition
         * [Registration Lifecycle](wiki/registration/registration-lifecycle.md)
         * [Renewal Lifecycle](wiki/registration/renewal-lifecycle.md)
         * [Base Pricing](wiki/registration/base-pricing.md)
-        * [Settlement Periods](wiki/registration/settlement.md)
-        * [Advantage Auctions](wiki/registration/auctions.md)
     - Initiatives
         * [Sunrise](wiki/initiatives/sunrise.md)
         * [Landrush](wiki/initiatives/landrush.md)
-        * [Substrate](wiki/initiatives/substrate.md)
     - Resolution
         * [Dockets](wiki/resolution/dockets.md)
         * [Usage &amp; Standards](wiki/resolution/standards.md)
-        * [Reverse Resolution](wiki/resolution/reverse-resolution.md)<br />
 
 - Developers
     - Getting Started

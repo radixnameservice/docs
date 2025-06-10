@@ -1,49 +1,42 @@
-
-
 # Registration Lifecycle
 
 ---
 
-Acquiring a domain involves a process of searching for a domain and, if available, committing to its [base purchase price](wiki/registration/base-pricing.md). The domain then enters a [settlement period](wiki/registration/settlement.md), which is a period of time that's allowed to pass before a user can claim the domain. This provides a window of time within which a process of price and demand discovery can be determined - other parties may initiate an auction within this window if they happen to apply for the same domain.
+> **🎉 V2 APPROVED:** The RNS community has voted to approve the V2 upgrade! While domains are already forever assets in the current system, V2 will introduce a "bonding" system that will require migration. See the [RNS V2 Bonding System](wiki/registration/v2-bonding-system.md) for full details.
 
-- If other parties are interested in the domain and the domain is within a settlement period, they will have the opportunity to participate in an [auction](wiki/registration/auctions.md). Due to the nature of our auction process, the original applicant always receives an edge within this auction. Please see the [auctions](wiki/registration/auctions.md) section for more information.
-- If no demand arises for the domain within the settlement period, it will settle and the user can claim the domain accordingly.
+## Current Registration Process
 
+Acquiring a domain involves searching for an available domain and, if available, purchasing it at the [base purchase price](wiki/registration/base-pricing.md). Once purchased, the domain is immediately yours as a forever asset with no expiration dates.
 
-Both base pricing and settlement periods are determined by domain character length.
-<br /><br />
+**Key features of the current system:**
+- ✅ Domains are forever assets (no expiration)
+- ✅ No auction process required
+- ✅ No settlement periods
+- ✅ Immediate ownership upon purchase
+- ⚠️ Will require migration to V2 bonding system when launched
 
 ## Process
 
 ---
 
-The registration process is as follows (infographic provided by XRD.domains):
-<br /><br />
+The registration process is now simplified:
 
-<object data="../../_assets/lifecycles/registration-lifecycle.pdf" type="application/pdf" width="100%" height="1040px">
-    <embed src="../../_assets/lifecycles/registration-lifecycle.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../_assets/lifecycles/registration-lifecycle.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-<br /><br />
+1. **Search** for available domain through any registrar interface
+2. **Purchase** domain at base price (paid in XRD equivalent)
+3. **Own forever** - domain is immediately yours with no expiration
 
 ## FAQ
 
 ---
 
-> #### The process above may seem quite complex for non-technical users; how do you expect these users to grasp these concepts in order to onboard themselves to the Radix Name Service?
+> #### The process is much simpler now - what happened to auctions and settlements?
 
-Platform providers (platforms through which domains sales are facilitated) are responsible for abstracting any complexities to cater to non-technical users.
-<br /><br />
+Auctions and settlement periods have been removed from RNS. Domains are now forever assets that can be purchased immediately at base price without complex bidding processes.
 
-> #### Why not remove the settlement period altogether and just create an auction?
+> #### Do I still need to worry about V2 migration?
 
-The main goal here is to create a user-friendly domain registration experience. Many other name services use a blind auction method, which in turn, keeps people in the dark for days as bids are submitted. The RNS Foundation expects most purchases to be generic in nature in the medium to long term (not perceived to be high-value or have any relation to rarity), so has decided to optimise the UX for such a scenario. Generic domain registration attempts would be hindered by a blind bidding process that is presented to users by many other name services, however, would greatly benefit with the settlement period mechanism, as anyone purchasing a generic domain comprised of a mediocre number of characters will likely be able to start using the domain within hours opposed to days.
+Yes, while domains are already forever assets in the current system, V2 will introduce a bonding mechanism that provides additional benefits. All current domain holders will need to migrate their domains to the V2 system (commit a bond amount) once it launches in order to use their domains - this of course is optional for users who just wish to hold onto the asset rights, rather than utilise a domain for its use case.
 
-Transparency and fair value also need to be considered due to the smaller size of the network in which the Radix Name Service is launching. The settlement period strikes a fine balance between transparency, demand based fair value and usability.
-<br /><br />
+> #### What's the difference between current forever assets and V2 bonding?
 
-> #### If I win at auction, will the renewal costs always be in line with the amount I paid for the bid?
-
-Short answer no. It will almost certainly be way cheaper, because domain renewals always follow the [base pricing schedule](wiki/registration/base-pricing.md).
-<br /><br />
+The current system makes domains forever assets paid for in XRD. V2 bonding will use xUSDC/sUSD as retrievable bonds.
